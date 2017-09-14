@@ -1,13 +1,51 @@
 ARCHIVO DE REGISTRO
 
-bakcup realizado: 2017_09_13__13_25_35.backup
-
 bakcup realizado: 2017_09_13__13_30_01.backup
 
-bakcup realizado: 2017_09_13__13_31_58.backup
+bakcup realizado: 2017_09_13__14_00_01.backup
 
-bakcup realizado: 2017_09_13__13_40_01.backup
+bakcup realizado: 2017_09_13__14_30_01.backup
 
-bakcup realizado: 2017_09_13__13_41_01.backup
+bakcup realizado: 2017_09_13__14_45_28.backup
 
-bakcup realizado: 2017_09_13__13_48_01.backup
+bakcup realizado: 2017_09_13__15_00_01.backup
+
+bakcup realizado: 2017_09_13__15_30_01.backup
+
+bakcup realizado: 2017_09_13__16_00_01.backup
+
+bakcup realizado: 2017_09_13__16_30_01.backup
+
+bakcup realizado: 2017_09_13__17_00_01.backup
+
+bakcup realizado: 2017_09_14__07_00_01.backup
+
+bakcup realizado: 2017_09_14__07_30_01.backup
+
+bakcup realizado: 2017_09_14__08_00_01.backup
+
+bakcup realizado: 2017_09_14__08_30_01.backup
+
+bakcup realizado: 2017_09_14__09_00_01.backup
+
+bakcup realizado: 2017_09_14__09_30_01.backup
+
+bakcup realizado: 2017_09_14__10_00_01.backup
+
+bakcup realizado: 2017_09_14__10_30_01.backup
+
+bakcup realizado: 2017_09_14__11_00_01.backup
+
+bakcup realizado: 2017_09_14__11_09_43.backup
+
+bakcup realizado: 2017_09_14__11_10_45.backup
+
+bakcup realizado: 2017_09_14__11_22_42.backup
+
+bakcup realizado: 2017_09_14__11_23_55.backup
+
+bakcup realizado: 2017_09_14__11_24_39.backup
+
+bakcup realizado: 2017_09_14__11_26_30.backup
+
+bakcup realizado: 2017_09_14__11_30_01.backup
