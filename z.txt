@@ -1,3 +1,0 @@
-To git@github.com:pccsystem/cron_back.git
-   135e47e..ee5b7ec  master -> master
-Branch master set up to track remote branch master from origin.
