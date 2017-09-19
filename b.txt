@@ -1,7 +1,0 @@
-test
-
-stdout
-
-
-stderr
-Already up-to-date.
