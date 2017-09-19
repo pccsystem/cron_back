@@ -1,62 +1,25 @@
-test
------------------
-Already up-to-date.
+git
+--- 09_19_09_03 ---
+fatal: Unable to create '/var/www/bakgit/.git/index.lock': El fichero ya existe.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+Updating 1c833ac..e85bd35
+fatal: Unable to create '/var/www/bakgit/.git/index.lock': El fichero ya existe.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
+fatal: Unable to create '/var/www/bakgit/.git/index.lock': El fichero ya existe.
+
+If no other git process is currently running, this probably means a
+git process crashed in this repository earlier. Make sure no other git
+process is running and remove the file manually to continue.
 To git@github.com:pccsystem/cron_back.git
-   994789d..135e47e  master -> master
-Branch master set up to track remote branch master from origin.
------------
-Already up-to-date.
-Everything up-to-date
-Branch master set up to track remote branch master from origin.
------------------
------------------
-Already up-to-date.
-To git@github.com:pccsystem/cron_back.git
-   6b5558b..25d48f7  master -> master
-Branch master set up to track remote branch master from origin.
------------------
---- 09_19_08_42 ---
-Already up-to-date.
-# On branch master
-# Changes not staged for commit:
-#   (use "git add/rm <file>..." to update what will be committed)
-#   (use "git checkout -- <file>..." to discard changes in working directory)
-#
-#	deleted:    0901.sql
-#	deleted:    a.sh
-#	deleted:    b.txt
-#	modified:   cron_git.sh
-#	modified:   git.txt
-#
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#	mod.txt
-no changes added to commit (use "git add" and/or "git commit -a")
-Everything up-to-date
-Branch master set up to track remote branch master from origin.
---- 09_19_08_43 ---
-Already up-to-date.
-fatal: Paths with -a does not make sense.
-Everything up-to-date
-Branch master set up to track remote branch master from origin.
---- 09_19_08_43 ---
-Already up-to-date.
-# On branch master
-# Changes not staged for commit:
-#   (use "git add/rm <file>..." to update what will be committed)
-#   (use "git checkout -- <file>..." to discard changes in working directory)
-#
-#	deleted:    0901.sql
-#	deleted:    a.sh
-#	deleted:    b.txt
-#	modified:   cron_git.sh
-#	modified:   git.txt
-#
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#	mod.txt
-no changes added to commit (use "git add" and/or "git commit -a")
-Everything up-to-date
-Branch master set up to track remote branch master from origin.
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:pccsystem/cron_back.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
